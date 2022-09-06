@@ -1,1 +1,1 @@
-3-path Directories
+3-paths Directories
