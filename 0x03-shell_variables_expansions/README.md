@@ -1,1 +1,1 @@
-3-paths Directories
+Global Variables
