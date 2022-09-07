@@ -1,1 +1,1 @@
-12-combinations
+combinations
